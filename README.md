@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mark-Mc21
-- 👀 I’m interested in learning Python and Javascript.
-- 🌱 I’m currently learning CS50P and web development.
+- 👀 I’m interested in learning C#, Python and Javascript.
+- 🌱 I’m currently learning C#, CS50P and web development.
 - 💞️ I’m looking to collaborate on all projects.
 - 📫 How to reach me ...
 
